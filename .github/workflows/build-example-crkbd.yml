@@ -10,5 +10,6 @@ jobs:
     with:
       keyboard: '["crkbd"]'
       alphas: '["qwerty"]'
+      tap: '["qwerty"]'
       nav: '["vi"]'
       clipboard: '["windows"]'
